@@ -19,7 +19,7 @@ Before running the program, ensure that you have the following:
 
 3. Update the `.env` file with your OpenAI API key or set an evironment variable from your terminal like this:
 ```sh
-OPENAI_KEY="YOUR OPEN AI KEY"
+export OPENAI_KEY="YOUR OPEN AI KEY"
 ```
 
 
